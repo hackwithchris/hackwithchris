@@ -13,3 +13,13 @@ Here is a great [article](https://medium.com/coinmonks/methods-for-nft-masked-mi
 ---
 
 Most NFT metadata and images are not stored on the blockchain. They are stored instead of IPFS. Please familiarize yourself with IPFS by taking a look at their [docs](https://medium.com/coinmonks/methods-for-nft-masked-minting-ddd05dceed32).
+
+
+
+# Resources
+
+## Moralis
+
+Website: https://moralis.io/
+
+I've been using Moralis's Speedy Nodes since they first came out. We can utilize their speedy node websockets for this project.
