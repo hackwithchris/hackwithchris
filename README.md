@@ -18,18 +18,18 @@ Most NFT metadata and images are not stored on the blockchain. They are stored i
 
 ## Moralis
 
-Website: https://moralis.io/
+Website: [https://moralis.io/](https://moralis.io/)
 
 I've been using Moralis's Speedy Nodes since they first came out. We can utilize their speedy node websockets for this project. Please create a free account.
 
 ## Pinata
 
-Website: https://www.pinata.cloud/
+Website: [https://www.pinata.cloud/](https://www.pinata.cloud/)
 
 Pinata is a pinning service that allows users to host files on the IPFS network easily. Please create a free account.
 
 ## Tenderly 
 
-Website: https://tenderly.co/
+Website: [https://tenderly.co/](https://tenderly.co/)
 
 I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.
