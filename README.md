@@ -27,3 +27,9 @@ I've been using Moralis's Speedy Nodes since they first came out. We can utilize
 Website: https://www.pinata.cloud/
 
 Pinata is a pinning service that allows users to host files on the IPFS network easily. Please create a free account.
+
+## Tenderly 
+
+Website: https://tenderly.co/
+
+I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.
