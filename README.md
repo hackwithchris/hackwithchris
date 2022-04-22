@@ -34,3 +34,12 @@ Pinata is a pinning service that allows users to host files on the IPFS network 
 Website: [https://tenderly.co/](https://tenderly.co/)
 
 I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.
+
+
+# Articles
+
+## Mekaverse
+
+Link: https://medium.com/@Miinded/behind-the-scene-of-mekaverse-launch-e6343e2acc6f
+
+How do you deal with 230,000 people who want to mint one of only 8,888 tokens. I loved reading about the technical challenges that comes with success and how they were able to overcome them.
