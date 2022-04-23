@@ -15,6 +15,8 @@ Here is a great [article](https://medium.com/coinmonks/methods-for-nft-masked-mi
 
 Most NFT metadata and images are not stored on the blockchain. They are stored instead of IPFS. Please familiarize yourself with IPFS by taking a look at their [docs](https://medium.com/coinmonks/methods-for-nft-masked-minting-ddd05dceed32).
 
+---
+
 # Resources
 
 ## Moralis
@@ -35,11 +37,12 @@ Website: [https://tenderly.co/](https://tenderly.co/)
 
 I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.
 
+---
 
 # Articles
 
 ## Mekaverse
 
-Link: https://medium.com/@Miinded/behind-the-scene-of-mekaverse-launch-e6343e2acc6f
+Link: [https://medium.com/@Miinded/behind-the-scene-of-mekaverse-launch-e6343e2acc6f](https://medium.com/@Miinded/behind-the-scene-of-mekaverse-launch-e6343e2acc6f)
 
 How do you deal with 230,000 people who want to mint one of only 8,888 tokens. I loved reading about the technical challenges that comes with success and how they were able to overcome them.
