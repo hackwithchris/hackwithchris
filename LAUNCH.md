@@ -1,3 +1,7 @@
+layout: page
+title: "NFT Project Launch Roadmap"
+permalink: /launch/
+
 # NFT Project Launch Roadmap 
 
 This was passed along to me by a friend who was also given this from a friend. I've shared this document with many people who are launching projects and I've decided to document it nicely for easy access for everyone.
