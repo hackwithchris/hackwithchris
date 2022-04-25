@@ -35,7 +35,13 @@ Pinata is a pinning service that allows users to host files on the IPFS network 
 
 Website: [https://tenderly.co/](https://tenderly.co/)
 
-I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.
+I use tenderly for debugging transactions that failed. I use log in with github. Tenderly has been a life saver for me many times.0
+
+## ERC721A
+
+Website: [https://www.erc721a.org/](https://www.erc721a.org/)
+
+ERC721A was created by the Azuki team to make minting to be a lot more gas efficient. This was much needed as most people who develop using openzeppelin will include a ton of extra libraries that add unneeded computations that make minting extremely costly.
 
 ---
 
