@@ -1,4 +1,4 @@
-# Learn Blockchain with Chris
+# Learn Blockchain Development with Chris
 
 Let's learn the basics of how to create an NFT project. 
 
